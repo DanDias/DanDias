@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanDias
 - 👀 I’m interested in games, gamedev, webdev, weird problems, ridiculous realities.
 - 🌱 I’m currently learning to live. 🤷‍♂️
-- 💞️ I’m looking to collaborate on whatever.
+- 💞️ I’m not looking to collaborate.
 - 📫 You can reach me <a href="mailto:dan@thecreativeoutlet.com">by email</a>.
 
 <!---
